@@ -1,0 +1,2 @@
+rootProject.name = "DominandoAndroidKotlin"
+include ':app'
